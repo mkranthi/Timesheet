@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<body>
+<img src="logo.png" alt="Icon" align="centre">
+<h2> POSH MARK TIME SHEET</h2>
+ </body>
+</html>
+<head>
+<style>
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+</style>
+</head>
+<body>
+
+<table align="Center" >
+  <tr>
+    <td>NAME</td> 
+    <td><select>
+  <option value="name">gary</option>
+  <option value="name">deepak</option>
+  <option value="name">kiran</option>
+  <option value="name">kranthi</option>
+</select></td>		
+   
+  </tr>
+  <tr>
+    <td>Week Beginning</td>
+    <td><input type="text" value=""><br></td>	
+    
+  </tr>
+  <tr>
+    <td>Client</td>
+    <td><input type="text" value="Poshmark"><br></td>		
+   
+  </tr>
+<tr>
+    <td>TOTAL HOURS</td>
+    <td><input type="text" value="20"><br></td>		
+   
+  </tr>
+</table>
+
+</body>
+
+<br>
+</br>
+
+<html>
+<head>
+<style>
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+</style>
+</head>
+<body>
+
+<table style="width:100%">
+  <tr>
+    <th>DATE</th>
+    <th>HOURS SPENT</th>		
+    <th>ACTIVITES PERFORMED</th>
+  </tr>
+<tr>
+<td><input type="date"></td>
+<td><input type="text"></td>
+<td><input type="text"></td>
+</tr>
+<tr>
+<td><input type="date"></td>
+<td><input type="text"></td>
+<td><input type="text"></td>
+</tr>
+<tr>
+<td><input type="date"></td>
+<td><input type="text"></td>
+<td><input type="text"></td>
+</tr>
+<tr>
+<td><input type="date"></td>
+<td><input type="text"></td>
+<td><input type="textbox"></td>
+</tr>
+<tr>
+<td><input type="date"></td>
+<td><input type="text"></td>
+<td><input type="text"></td>
+</tr>
+<tr>
+<td><input type="date"></td>
+<td><input type="text"></td>
+<td><input type="text"></td>
+</tr>
+<tr>
+<td><input type="date"></td>
+<td><input type="text"></td>
+<td><input type="text"></td>
+</tr>
+</table>
+
+</body>
+</html>
+<br></br>
+<head>
+<h3>Instructions</h3>
+
+<p> 1.Provide detailed list of activities performed<br>
+</br>
+2. Email timesheets to <a href="leaninfotech.net">leaninfotech.net</a>end of day Sunday 
+
+</p>
+</head>
+
